@@ -26,6 +26,7 @@ README.md
 ```python
 def main():
 	print("배용규입니다")
+```
 
 
 **이상**
